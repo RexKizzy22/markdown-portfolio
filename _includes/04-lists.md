@@ -1,9 +1,9 @@
-1 Some of my favourite books:
-  1 Richest man in Babylon
-  2 Goals by Bryan Tracy
-  3 80/20 principle
+**Some of my favourite books**
+  - Richest man in Babylon
+  - Goals by Bryan Tracy
+  - 80/20 principle
   
-2 My hobbies:
-  1 Travelling
-  2 Reading
-  3 Sports
+**My hobbies**
+  - Travelling
+  - Reading
+  - Sports
