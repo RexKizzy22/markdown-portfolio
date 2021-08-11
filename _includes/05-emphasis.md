@@ -1,1 +1,16 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Programming Languages**
+- Typescript/_Javascript_
+- F#
+- Python
+
+**Skills**
+- Full Stack Web Development
+- API Design
+- Database Design
+- Security and Authentication
+- Data Migrations
+- Testing
+
+**Attributes**
+- Enjoys declarative programming
+- Enjoys functional programming
